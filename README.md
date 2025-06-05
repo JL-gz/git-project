@@ -1,2 +1,1 @@
-# git-project
-este es un proyecto de prueba
+https://github.com/openai-user/lelelis-tech
